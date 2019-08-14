@@ -164,7 +164,7 @@ openssl_archive=openssl-$OPENSSL_VERSION.tar.gz
 openssl_download_url=https://packages.kitware.com/download/item/$OPENSSL_MIDAS_PACKAGES_ITEM/$openssl_archive
 
 qt_archive=qt-everywhere-opensource-src-$QT_VERSION.${QT_SRC_ARCHIVE_EXT}
-qt_download_url=https://download.qt.io/official_releases/qt/$QT_MAJOR_MINOR_VERSION/$QT_VERSION/$qt_archive
+qt_download_url=https://download.qt.io/archive/qt/$QT_MAJOR_MINOR_VERSION/$QT_VERSION/$qt_archive
 
 cwd=$(pwd)
 
