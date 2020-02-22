@@ -10,7 +10,7 @@ Scripts available for these Qt versions:
 * [5.12.7][5127]
 * [4.8.7][487]
 
-[5127]: https://github.com/jamesobutler/qt-easy-build/tree/5.12.4#readme
+[5127]: https://github.com/jamesobutler/qt-easy-build/tree/5.12.7#readme
 [487]: https://github.com/jamesobutler/qt-easy-build/tree/4.8.7#readme
 
 | Qt Version   | Linux                                                   | macOS                                                   | Windows CI |
@@ -18,14 +18,14 @@ Scripts available for these Qt versions:
 | 5.12.7       | [![Build Status][5127_linux_i_azure]][5127_linux_azure] | [![Build Status][5127_macos_i_azure]][5127_macos_azure] | [![Build Status][5127_windows_i_azure]][5127_windows_azure]         |
 | 4.8.7        | NA                                                      | NA                                                      | NA         |
 
-[5127_linux_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_build/latest?definitionId=1&branchName=5.12.4
-[5127_linux_i_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_apis/build/status/jamesobutler.qt-easy-build?branchName=5.12.4&jobName=Linux
+[5127_linux_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_build/latest?definitionId=1&branchName=5.12.7
+[5127_linux_i_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_apis/build/status/jamesobutler.qt-easy-build?branchName=5.12.7&jobName=Linux
 
-[5127_macos_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_build/latest?definitionId=1&branchName=5.12.4
-[5127_macos_i_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_apis/build/status/jamesobutler.qt-easy-build?branchName=5.12.4&jobName=macOS
+[5127_macos_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_build/latest?definitionId=1&branchName=5.12.7
+[5127_macos_i_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_apis/build/status/jamesobutler.qt-easy-build?branchName=5.12.7&jobName=macOS
 
-[5127_windows_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_build/latest?definitionId=1&branchName=5.12.4
-[5127_windows_i_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_apis/build/status/jamesobutler.qt-easy-build?branchName=5.12.4&jobName=Windows
+[5127_windows_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_build/latest?definitionId=1&branchName=5.12.7
+[5127_windows_i_azure]: https://dev.azure.com/jamesobutler/qt-easy-build/_apis/build/status/jamesobutler.qt-easy-build?branchName=5.12.7&jobName=Windows
 
 # Unmaintained Qt build scripts
 
